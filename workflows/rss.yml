@@ -2,7 +2,6 @@ on:
   rss:
     url:
       - https://rsshub.app/weibo/user/6985732195
-      - https://rsshub.app/weibo/user/6985732194
 jobs:
   request:
     name: Make a HTTP Request
